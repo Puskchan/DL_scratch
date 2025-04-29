@@ -1,2 +1,7 @@
 /env
 /dataset
+.venv
+__pycache__/
+*.pyc
+*.csv
+.python-version
